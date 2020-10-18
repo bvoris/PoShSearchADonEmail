@@ -1,6 +1,14 @@
 # PoShSearchADonEmail
 Powershell script is used to seach Active Directory based on an email address and then return the user it is associated with. If the the email address does not exist on the domain a null value is returned.
 
+<img alt="GitHub" src="https://img.shields.io/github/license/bvoris/PoShSearchADonEmail">
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/bvoris/PoShSearchADonEmail">
+<img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/bvoris/PoShSearchADonEmail/total">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/bvoris/PoShSearchADonEmail">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/bvoris/PoShSearchADonEmail">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/bvoris/PoShSearchADonEmail">
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/bvoris/PoShSearchADonEmail">
+
 ## Connect with me at
 
 <a href="https://twitter.com/HMInfoSecViking?ref_src=twsrc%5Etfw"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/twitter.jpg" WIDTH=10% HEIGHT=10% ALIGN=LEFT></a>
